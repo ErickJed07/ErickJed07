@@ -1,4 +1,4 @@
-# ErickJedDiaz
+# Erick Jed O. Diaz
 # About me:
 
 I am Erick Jed O. Diaz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
